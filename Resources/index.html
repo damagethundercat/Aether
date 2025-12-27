@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+      background-color: #000;
+      /* Seamless transition */
+      overflow: hidden;
+      /* No scrollbars */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    canvas {
+      display: block;
+      /* Remove box-shadow if we want seamless blend, but keeping it per design is fine */
+      /* border-radius: 30px; overridden by p5js.js usually */
+    }
+  </style>
+  <script>
+    window.onerror = function (message, source, lineno, colno, error) {
+      console.log("JS ERROR: " + message + " at " + source + ":" + lineno + ":" + colno);
+    };
+    console.log("Index.html loaded, starting scripts...");
+  </script>
+  <!-- Load p5.js from local asset for stability/offline/sandbox support -->
+  <script src="p5.min.js"></script>
+  <script src="p5js.js"></script>
+</head>
+
+<body>
+  <main>
+  </main>
+</body>
+
+</html>

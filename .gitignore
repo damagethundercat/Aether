@@ -1,0 +1,10 @@
+.DS_Store
+*.app
+*.dmg
+build/
+.swiftpm/
+.build/
+dmg-source/
+*.o
+*.swiftmodule
+.db
