@@ -13,8 +13,7 @@
 
 이 앱을 설치하고 실행하면 상단바에 떠있는 ☊ 아이콘을 찾아주세요!
 
-![Aether Preview](Resources/Assets/github_play.gif)
-<br>
+
 ![Aether Screenshot](Resources/Assets/github_screenshot.png)
 
 
@@ -25,6 +24,8 @@
 * **텍스트 입력과 전송**: 소원, 다짐, 혹은 무언가..를 입력하고 엔터로 보내보세요. 글자들은 조각으로 흩어지고 은하로 날아갑니다.
 * **허공으로**: 엔터를 누르고 글자가 날아가는 동안, 실제로 그 글은 암호화된 신호가 되어 로컬 네트워크의 허공('255.255.255.255')으로 영원히 방출됩니다. 언젠간 말머리 성운에 닿을 수 있지 않을까요?
 * **이?스터에그**: 앱 정보 창에는 개발자인 제가 보내는 작은 연하장이 있습니다. 새해 복 많이 받으세요.
+
+![Aether Preview](Resources/Assets/github_play.gif)
 
 ## 설치 및 실행 방법
 
