@@ -1,3 +1,5 @@
+![Aether Header](Resources/Assets/github_header.png)
+
 # ☊ Aether ☊
 
 
@@ -11,7 +13,9 @@
 
 이 앱을 설치하고 실행하면 상단바에 떠있는 ☊ 아이콘을 찾아주세요!
 
-![Aether Preview](https://via.placeholder.com/800x450?text=Insert+GIF+Here)
+![Aether Preview](Resources/Assets/github_play.gif)
+<br>
+![Aether Screenshot](Resources/Assets/github_screenshot.png)
 
 
 ## 주요 기능
