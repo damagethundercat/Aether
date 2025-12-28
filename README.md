@@ -25,7 +25,7 @@
 * **허공으로**: 엔터를 누르고 글자가 날아가는 동안, 실제로 그 글은 암호화된 신호가 되어 로컬 네트워크의 허공('255.255.255.255')으로 영원히 방출됩니다. 언젠간 말머리 성운에 닿을 수 있지 않을까요?
 * **이?스터에그**: 앱 정보 창에는 개발자인 제가 보내는 작은 연하장이 있습니다. 새해 복 많이 받으세요.
 
-![Aether Preview](Resources/Assets/github_play.gif)
+![Aether Preview](Resources/Assets/aether_preview.gif)
 
 ## 설치 및 실행 방법
 
